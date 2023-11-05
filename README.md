@@ -7,4 +7,4 @@
 
 - [![trophy](https://github-profile-trophy.vercel.app/?username=serentyxd)]
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serentyxd&show_icons=true&locale=en" alt="serentyxd" /></p>
+![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=farag2&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F)
