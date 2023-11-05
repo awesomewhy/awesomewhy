@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on "Null"
 
-- 💬 Ask me about **Vue** or **UI/UX design**
-
-- ⚡ Fun fact **I like milk**
+- 💬 Ask me about Java/Go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
