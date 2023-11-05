@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm serenty</h1>
 <h3 align="center">A passionate developer from Russia</h3>
 
-- 🔭 I’m currently working on "Null"
+- 🔭 I’m currently working on "Search"
 
 - 💬 Ask me about Java/Go**
 
