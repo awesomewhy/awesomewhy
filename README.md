@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/serentyxd" target="blank"><img align="center" src="telegram" alt="serenty" height="30" width="30" /></a>
+<a href="https://t.me/serentyxd" target="blank"><img align="center" alt="serenty" height="30" width="30" />telegram</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
