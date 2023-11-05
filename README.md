@@ -5,6 +5,4 @@
 
 - 💬 Ask me about Java**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serentyxd&layout=compact)]
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serentyxd&show_icons=true&locale=en" alt="serentyxd" /></p>
