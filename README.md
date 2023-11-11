@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm serenty</h1>
 <h3 align="center">A passionate developer from Russia</h3>
-
-- 🔭 I’m currently working on "Search"
-
-- 💬 Ask me about Java**
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
