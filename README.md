@@ -24,7 +24,11 @@
 <br />
 <p align="center">
   <samp>
-<!--     $  <a href="https://youtube.com/@qwe" target="_blank">some</a> $ -->
+    $  <a href="https://youtube.com" target="_blank">youtube</a> .
+    <a href="https://youtube.com" target="_blank">gists</a> .
+    <a href="https://youtube.com" target="_blank">twitter</a> .
+    <a href="https://youtube.com" target="_blank">discord</a> .
+    <a href="https://youtube.com" target="_blank">telegram</a> $
   </samp>
 </p>
 
