@@ -11,7 +11,7 @@
   ```css
   serenty@GitHub
   -----------------
-  Name: heap
+  Name: serenty
   OS: Fedora x86_64
   Languages: ["Java", "C", "Bash", "Go"]
   Intrests: ["CyberSecurity", "Linux", "FOSS"]  
