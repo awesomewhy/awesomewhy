@@ -24,7 +24,7 @@
 <br />
 <p align="center">
   <samp>
-    $  <a href="https://youtube.com/@qwe" target="_blank">some</a> $
+<!--     $  <a href="https://youtube.com/@qwe" target="_blank">some</a> $ -->
   </samp>
 </p>
 
