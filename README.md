@@ -12,7 +12,7 @@
   serenty@GitHub
   -----------------
   Name: serenty
-  OS: Fedora x86_64
+  Distributive: Fedora x86_64
   Languages: ["Java", "C", "Bash", "Go"]
   Intrests: ["CyberSecurity", "Linux", "FOSS"]  
   Uptime: 17 Years
