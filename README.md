@@ -13,7 +13,7 @@
   -----------------
   Name: heap
   OS: Vitunix x86_64
-  Languages: ["Go", "C", "Bash", "Java"]
+  Languages: ["Java", "C", "Bash", "Go"]
   Intrests: ["CyberSecurity", "Linux", "FOSS"]  
   Uptime: 17 Years
   ```
