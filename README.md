@@ -12,7 +12,7 @@
   serenty@GitHub
   -----------------
   Name: heap
-  OS: Vitunix x86_64
+  OS: Fedora x86_64
   Languages: ["Java", "C", "Bash", "Go"]
   Intrests: ["CyberSecurity", "Linux", "FOSS"]  
   Uptime: 17 Years
