@@ -13,7 +13,7 @@
   -----------------
   Name: serenty
   Distributive: Arch x86_64
-  Languages: ["Java", "C", "Bash", "Go"]
+  Languages: ["Java", "C", "Go"]
   Learning : ["Go", "Zig", "Haskell"]
   Intrests: ["CyberSecurity", "Linux", "FOSS"]  
   Uptime: 17 Years
