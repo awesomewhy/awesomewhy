@@ -7,11 +7,11 @@
     serenty@GitHub
   -----------------
   ```Name: serenty```
-  Distributive: Arch x86_64
-  Languages: ["Java", "Go"]
-  Learning : ["Go", "Rust", "Haskell"]
-  Intrests: ["CyberSecurity", "Linux", "FOSS"]  
-  Uptime: 17 Years
+ ``` Distributive: Arch x86_64```
+ ``` Languages: ["Java", "Go"]```
+ ``` Learning : ["Go", "Rust", "Haskell"]```
+```  Intrests: ["CyberSecurity", "Linux", "FOSS"]  ```
+```  Uptime: 17 Years ```
   
 </div>
 
