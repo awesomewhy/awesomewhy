@@ -12,7 +12,7 @@
   Name: serenty
   Distributive: Arch x86_64
   Languages: ["Java", "Rust"]
-  Learning : ["Go", "Rust", "Haskell"]
+  Learning : ["Rust", "Elixir", "Haskell"]
   Intrests: ["CyberSecurity", "Linux", "FOSS"]  
   Uptime: 17 Years
   ```
