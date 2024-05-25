@@ -15,7 +15,7 @@
   Learning : ["Rust", "Elixir", "Haskell"]
   Intrests: ["CyberSecurity", "Linux", "FOSS"]  
   Uptime: 17 Years
-  quote: 7 классов образования
+  quote: )
   ```
 </div>
 
