@@ -16,6 +16,7 @@
   Intrests: ["CyberSecurity", "Linux", "FOSS"]  
   Uptime: 17 Years
   quote: жертва российского образования
+  about me: имеется фиолетовый диплом
   ```
 </div>
 
