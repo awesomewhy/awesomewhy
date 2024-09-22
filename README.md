@@ -15,8 +15,6 @@
   Learning : ["Rust", "Elixir", "Haskell"]
   Intrests: ["CyberSecurity", "Linux", "FOSS"]  
   Uptime: 18 Years
-  quote: жертва российского образования
-  about me: имеется фиолетовый диплом
   ```
 </div>
 
